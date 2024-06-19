@@ -22,7 +22,7 @@ function AboutUs(props) {
           <h1 className="text-4xl text-center font-bold text-blue-700" >{props.title}</h1>
           <div className="h-[300px] w-[100%] p-7 flex  justify-between  mt-5">
              <div>
-             <p className="font-medium leading-1">
+             <p className="font-medium">
                 {props.des} 
              </p>
               </div>
