@@ -5,7 +5,7 @@ function Pricing() {
   return (
     <div>
         <h1 className='text-4xl font-bold text-center text-blue-700 mt-8'>Pricing</h1>
-        <div className='grid grid-cols-3 ml-[70px] mt-[30px] gap-6 p-8'>
+        <div className='grid grid-cols-3  mt-[30px] gap-6 p-8'>
             <Pricingcard title="Free Plan" price="0" 
             features={{
                 1 : true,

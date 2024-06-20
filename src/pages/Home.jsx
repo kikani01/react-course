@@ -4,6 +4,7 @@ import Content from '../components/home/Content'
 import AboutUs from '../components/home/AboutUs'
 import Service from '../components/home/Service'
 import Pricing from '../components/home/Pricing'
+import Progressrow from '../components/home/Progressrow'
 
 function Home() {
   return (
@@ -17,6 +18,7 @@ function Home() {
     
     <Service/>
     <Pricing/>
+    <Progressrow/>
     </div> 
 
 
