@@ -8,7 +8,7 @@ function Servicecard(props) {
         </div>
         <div className="p-3">
         <h3 className="font-medium text-2xl ">{props.title}</h3>
-        <p className="font-mono ">{props.desc}</p>
+        <p className="font-semibold">{props.desc}</p>
         </div>
     </div>
   )
