@@ -5,6 +5,7 @@ import AboutUs from '../components/home/AboutUs'
 import Service from '../components/home/Service'
 import Pricing from '../components/home/Pricing'
 import Progressrow from '../components/home/Progressrow'
+import Teambar from '../components/home/Teambar'
 
 function Home() {
   return (
@@ -19,6 +20,7 @@ function Home() {
     <Service/>
     <Pricing/>
     <Progressrow/>
+    <Teambar/>
     </div> 
 
 
